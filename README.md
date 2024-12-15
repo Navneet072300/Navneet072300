@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Navneet</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">I am an enthusiastic Computer Science Engineering
+student studying for my Bachelor's degree at
+Chandigarh University (2021 July—2025 June) with a
+focus on DevOps. I am a highly motivated beginner
+Engineering student with a strong desire to gain
+practical experience in the field of software
+development, operations, and analysis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navneet072300&label=Profile%20views&color=0e75b6&style=flat" alt="navneet072300" /> </p>
 
@@ -7,7 +13,7 @@
 
 - 🌱 I’m currently learning **Golang and AI**
 
-- 💬 Ask me about **react, nextjs, java, golang**
+- 💬 Ask me about **react, nextjs, java, golang and devops**
 
 - 📫 How to reach me **navneetshahi345@gmail.com**
 
