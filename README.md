@@ -15,7 +15,7 @@ development, operations, and analysis.</h3>
 
 - 💬 Ask me about **react, nextjs, java, golang and devops**
 
-- 📫 How to reach me **navneetshahi345@gmail.com**
+- 📫 How to reach me **[navneetshahi345@gmail.com](https://portfolio-git-main-navneet-shahis-projects.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
