@@ -11,7 +11,7 @@ development, operations, and analysis.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navneet072300" alt="navneet072300" /></a> </p>
 
-- 🌱 I’m currently learning **Golang and AI**
+- 🌱 I’m currently learning **Golang and AI/ML**
 
 - 💬 Ask me about **react, nextjs, java, golang and devops**
 
