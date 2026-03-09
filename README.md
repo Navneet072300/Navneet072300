@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Navneet</h1>
-<h3 align="center">I am an enthusiastic Computer Science Engineering
-student studying for my Bachelor's degree at
-Chandigarh University (2021 July—2025 June) with a
-focus on DevOps. I am a highly motivated beginner
-Engineering student with a strong desire to gain
-practical experience in the field of software
-development, operations, and analysis.</h3>
+<h3 align="center">DevOps Engineer experienced in Kubernetes (OpenShift, AWS EKS), CI/CD pipelines, and cloud infrastructure on AWS. Skilled in GitOps deployments with ArgoCD, monitoring with Prometheus & Grafana, and Kubernetes networking using NGINX and HAProxy. Also work with Python, FastAPI, and AI/ML tools for building backend services and AI-driven applications..</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Golang and AI/ML<br>💬 Ask me about React, Next.js, Java, Golang, and DevOps<br>📫 How to reach me: https://portfolio-git-main-navneet-shahis-projects.vercel.app/
+🌱 I’m currently learning AI/ML<br>💬 Ask me about React, Next.js and DevOps<br>📫 How to reach me: https://portfolio-git-main-navneet-shahis-projects.vercel.app/
 
 
 ## 🌐 Socials:
