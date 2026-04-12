@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer experienced in Kubernetes (OpenShift, AWS EKS), CI/CD pipelines, and cloud infrastructure on AWS. Skilled in GitOps deployments with ArgoCD, monitoring with Prometheus & Grafana, and Kubernetes networking using NGINX and HAProxy. Also work with Python, FastAPI, and AI/ML tools for building backend services and AI-driven applications..</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning AI/ML<br>💬 Ask me about React, Next.js and DevOps<br>📫 How to reach me: https://portfolio-git-main-navneet-shahis-projects.vercel.app/
+🌱 I’m currently learning AI/ML<br>💬 Ask me about React, Next.js and DevOps<br>📫 How to reach me: https://nav-sh-port.vercel.app/
 
 
 ## 🌐 Socials:
