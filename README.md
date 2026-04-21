@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Navneet</h1>
+<h1 align="center">hi 👋, i'm navneet</h1>
 <h3 align="center">DevOps Engineer experienced in Kubernetes (OpenShift, AWS EKS), CI/CD pipelines, and cloud infrastructure on AWS. Skilled in GitOps deployments with ArgoCD, monitoring with Prometheus & Grafana, and Kubernetes networking using NGINX and HAProxy. Also work with Python, FastAPI, and AI/ML tools for building backend services and AI-driven applications..</h3>
 
 # 💫 About Me:
